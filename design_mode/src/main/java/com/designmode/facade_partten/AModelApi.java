@@ -5,4 +5,5 @@ package com.designmode.facade_partten;
  */
 
 public interface AModelApi {
+    void testA();
 }

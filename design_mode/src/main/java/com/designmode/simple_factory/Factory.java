@@ -2,6 +2,7 @@ package com.designmode.simple_factory;
 
 /**
  * Created by Administrator on 2018/5/21.
+ * 简单工厂模式
  */
 
 public class Factory {
