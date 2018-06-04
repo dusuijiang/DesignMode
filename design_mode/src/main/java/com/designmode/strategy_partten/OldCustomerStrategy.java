@@ -1,7 +1,7 @@
 package com.designmode.strategy_partten;
 
 /**
- * 具体算法
+ * 老客户具体算法
  */
 
 public class OldCustomerStrategy implements Strategy {

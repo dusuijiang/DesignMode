@@ -1,7 +1,7 @@
 package com.designmode.template_factory;
 
 /**
- * Created by Administrator on 2018/5/21.
+ * 工厂方法.
  */
 
 public class Client {

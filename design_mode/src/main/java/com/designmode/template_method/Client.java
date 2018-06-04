@@ -1,7 +1,7 @@
 package com.designmode.template_method;
 
 /**
- * Created by Administrator on 2018/5/21.
+ * 模板方法
  */
 
 public class Client {

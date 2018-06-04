@@ -1,7 +1,7 @@
 package com.designmode.strategy_partten;
 
 /**
- * 具体算法
+ * 大客户具体算法
  */
 
 public class LargeCustomerStrategy implements Strategy {

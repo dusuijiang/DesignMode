@@ -8,7 +8,7 @@ import java.util.List;
 import static com.designmode.utils.DateUtil.getStringDate;
 
 /**
- * Created by Administrator on 2018/5/21.
+ * 适配器
  */
 
 public class Client {

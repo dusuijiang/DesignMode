@@ -1,7 +1,7 @@
 package com.designmode.strategy_partten;
 
 /**
- * Created by Administrator on 2018/5/21.
+ * 策略
  */
 
 public class Client {

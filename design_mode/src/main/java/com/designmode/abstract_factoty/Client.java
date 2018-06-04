@@ -1,7 +1,7 @@
 package com.designmode.abstract_factoty;
 
 /**
- * Created by Administrator on 2018/5/21.
+ * 抽象工厂
  */
 
 public class Client {

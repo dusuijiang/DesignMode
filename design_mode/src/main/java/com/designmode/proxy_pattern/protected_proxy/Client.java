@@ -1,7 +1,7 @@
 package com.designmode.proxy_pattern.protected_proxy;
 
 /**
- * Created by Administrator on 2018/5/21.
+ * 代理
  */
 
 public class Client {
